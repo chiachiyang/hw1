@@ -87,8 +87,16 @@ a{
 	margin-right: 40px;
 }
 
+.mt-10{
+	margin-top: 40px;
+}
+
 .mt-15{
 	margin-top: 60px;
+}
+
+.mt-40{
+	margin-top: 160px;
 }
 
 .mt-48{
